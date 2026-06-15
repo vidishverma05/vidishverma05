@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Vidish Verma
 
-<!--
-**vidishverma05/vidishverma05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Skills:
+- Python
+- C
+- C++
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Advanced DSA
+- Git & GitHub
+- AI Development
+
+📫 Contact Me:
+- Email: vidishverma05@gmail.com
+- LinkedIn: linkedin.com/in/vidish-verma
+
+## Goals for 2026
+- Contribute to Open Source
+- Crack a Software Internship
+- Build AI Projects
